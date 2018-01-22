@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AFH Browser v2</string>
+    <string name="search">Search</string>
+    <string name="no_search_field">Specify something to search !</string>
+    <string name="file_size">Size</string>
+    <string name="file_downloads">Downloads</string>
+    <string name="file_upload_date">Upload Date</string>
+    <string name="no_internet_connection">No internet connection !</string>
+</resources>
